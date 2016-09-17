@@ -1,2 +1,17 @@
 [project]
 name = FreeDict
+
+[alternatives.en]
+name = English
+primary = yes
+locale = en_US
+
+[alternatives.fr]
+name = French
+url_prefix = /fr/
+locale = fr
+
+[alternatives.de]
+name = Deutsch
+url_prefix = /de/
+locale = de_DE
