@@ -1,0 +1,16 @@
+body:
+
+Sur cette page vous pouvez trouver des dictionnaires bilingues. Les bases de données sont libres. Cela signifie qu'ils sont disponibles sous licence GNU (General Public License) ou une licence moins restrictive. Vérifiez la licence de la base de donnée qui vous intéresse!
+
+Les dictionnaires sont disponibles au format XML. Nous assurons la conversion du format natif [TEI](http://www.tei-c.org/) pour utilisation avec [dictd](http://www.dict.org/w/), le serveur de dictionnaire DICT et d'autres serveurs analogues. Vous pouvez consulter notre propre inteface à l'adresse suivante http://freedict.org/dict. Notez que, de cette page, vous pouvez aussi installer un plugin permettant d'interroger un dictionnaire Freedict directement depuis la fenêtre de recherche de votre navigateur.
+
+Mais il y a aussi d'autres applications pour nos base de données. Vous pouvez les utiliser pour générer des listes de mots pour des correcteurs orthographiques et des nouveaux dictionnaires, pour créer des corpora linguistiques, pour les importer dans votre propre base de données de termes et même imprimer votre propre dictionnaire avec XSL-FO.
+
+Si vous voulez voir d'autres langues, lisez le HOWTO et rejoignez le projet ! Votre aide est très appréciable et nécessaire. Elle l'est aussi pour améliorer la qualité des bases de données.
+
+La plupart des ressources sont hébergées chez SourceForge: Encouragez-les aussi. Sans SourceForge, FreeDict ne serait pas allé si loin!
+
+Horst Eyermann a débuté ce projet en 2000. Les bases de données sont une compilation de plusieurs sources libres. Merci de consulter les en-têtes TEI respectives, READMEs et données 00-database-info. Les premières bases de données ont été dérivées d' Ergane.
+
+---
+title: FreeDict - dictionnaires bilingues libres
